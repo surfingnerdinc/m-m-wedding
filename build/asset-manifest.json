@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/dubimapl/wedding-page/static/css/main.c3e84997.css",
+    "main.js": "/dubimapl/wedding-page/static/js/main.009a10a3.js",
+    "static/media/hdz3.jpg": "/dubimapl/wedding-page/static/media/hdz3.6150c6fe94503b767491.jpg",
+    "static/media/k.jpeg": "/dubimapl/wedding-page/static/media/k.2af2ff43afda309f9f7b.jpeg",
+    "static/media/bg-video-2-1.mp4": "/dubimapl/wedding-page/static/media/bg-video-2-1.ddcc2b5230765105f5c6.mp4",
+    "static/media/bg-video-3.mp4": "/dubimapl/wedding-page/static/media/bg-video-3.9e4312de31a9f7edf530.mp4",
+    "static/media/bg-video-1.mp4": "/dubimapl/wedding-page/static/media/bg-video-1.961948c9f2e4d955c331.mp4",
+    "index.html": "/dubimapl/wedding-page/index.html",
+    "main.c3e84997.css.map": "/dubimapl/wedding-page/static/css/main.c3e84997.css.map",
+    "main.009a10a3.js.map": "/dubimapl/wedding-page/static/js/main.009a10a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3e84997.css",
+    "static/js/main.009a10a3.js"
+  ]
+}
