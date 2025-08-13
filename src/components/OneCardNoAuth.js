@@ -21,11 +21,12 @@ const OneCardNoAuth = (props) => {
           content: (
             <div className="space-y-3">
               <p className="text-lg">‼️ Z hotelu do kościoła: 13:00</p>
-              <p className="text-lg">✅ Pierwszy bus z sali do hotelu: 02:00</p>
-              <p className="text-lg">✅ Ostatni bus z sali do hotelu: 04:00</p>
-              <p className="text-sm text-gray-600 mt-4">
+              <p className="text-sm text-gray-600 mt-4 pl-6">13:00 odjazd z Kolejowej / 13:05 z Piłsudskiego</p>
+              <p className="text-sm text-gray-600 mt-4 pl-6">
                 Bus będzie czekał przy głównym wejściu do hotelu.
               </p>
+              <p className="text-lg">✅ Pierwszy bus z sali do hotelu: 02:00</p>
+              <p className="text-lg">✅ Ostatni bus z sali do hotelu: 04:00</p>
             </div>
           )
         };
