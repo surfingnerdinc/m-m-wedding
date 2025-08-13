@@ -26,17 +26,18 @@ return (
                     button="Sprawdź gdzie śpisz"
                 />
                 <OneCardNoAuth 
-                    image={Garinutur}
-                    alt="Dresscode"
-                    title="Dresscode"
-                    button="Sprawdź dresscode"
-                />
-                <OneCardNoAuth 
                     image={Sniadanie}
                     alt="Śniadanie"
                     title="Śniadanie"
                     button="Sprawdź szczegóły"
                 />
+                <OneCardNoAuth 
+                    image={Garinutur}
+                    alt="Dresscode"
+                    title="Dresscode"
+                    button="Sprawdź dresscode"
+                />
+
             </div>
         </div>
     );
