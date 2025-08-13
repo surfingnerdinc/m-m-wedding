@@ -15,9 +15,8 @@ const HeroSection = () => {
   const videoRef2 = useRef(null);
   const videoRef3 = useRef(null);
 
-  const weddingDate = new Date("2025-08-28T14:00:00");
-
   useEffect(() => {
+    const weddingDate = new Date("2025-08-28T14:00:00");
     const interval = setInterval(() => {
       const now = new Date();
       const diff = weddingDate.getTime() - now.getTime();
