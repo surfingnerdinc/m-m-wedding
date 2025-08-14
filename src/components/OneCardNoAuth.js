@@ -38,7 +38,6 @@ const OneCardNoAuth = (props) => {
               <p className="text-lg">👔 Nie wymagamy niczego szczególnego</p>
               <p className="text-lg">👗 Wesele jest w eleganckim stylu</p>
               <p className="text-lg">🏡 Lecz sala jest w malowniczej scenerii</p>
-              {/* <p className="text-lg">👟 Wygodne buty na parkiet</p> */}
               <p className="text-sm text-gray-600 mt-4">
                 Wesele odbędzie się w ogrodzie, przygotuj się na trawę!
               </p>
@@ -51,22 +50,11 @@ const OneCardNoAuth = (props) => {
           content: (
             <div className="space-y-3">
               <p className="text-lg">🕘 Godzina: 8:00 - 10:00</p>
-              <p className="text-lg">📍 Miejsce: Restauracja hotelu Ambrozja</p>
-              {/* <p className="text-lg">🍳 Warto jednak rozważyć wcześniejsze przybycie</p> */}
-            </div>
-          )
-        };
-      case 'zdjęcia':
-        return {
-          title: 'Zdjęcia z wesela',
-          content: (
-            <div className="space-y-3">
-              <p className="text-lg">📸 Galeria już dostępna</p>
-              <p className="text-lg">💾 Pobierz w pełnej rozdzielczości</p>
-              <p className="text-lg">🔗 Link do galerii poniżej</p>
-              <p className="text-sm text-gray-600 mt-4">
-                Wszystkie zdjęcia dostępne bez ograniczeń.
-              </p>
+              <p className="text-lg">📍 Miejsce: Restauracja hotelu Ambrozja, ul. Kolejowa</p>
+              <p className="text-lg">🍳 Warto jednak rozważyć wcześniejsze przybycie</p>
+              <p className="text-lg">🕘 Godzina: 8:00 - 10:00</p>
+              <p className="text-lg">📍 Miejsce: Restauracja hotelu Arte, plac Zamkowy</p>
+              <p className="text-lg">🍳 Warto jednak rozważyć wcześniejsze przybycie</p>
             </div>
           )
         };
