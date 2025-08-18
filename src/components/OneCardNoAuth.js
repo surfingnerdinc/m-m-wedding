@@ -39,7 +39,7 @@ const OneCardNoAuth = (props) => {
               <p className="text-lg">👗 Wesele jest w eleganckim stylu</p>
               <p className="text-lg">🏡 Lecz sala jest w malowniczej scenerii</p>
               <p className="text-sm text-gray-600 mt-4">
-                Wesele odbędzie się w ogrodzie, przygotuj się na trawę!
+                Tańczymy na sali, więc przygotujcie się na normalny parkiet! 
               </p>
             </div>
           )
